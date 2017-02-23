@@ -1,8 +1,8 @@
-#主要是用来总在在学习使用git过程中使用到的命令行！
+#主要是用来总在在学习使用git过程中使用到的命令行！＜/br＞
 
-＜/br＞在进行任务git操作之前都要先切换到git仓库
-＜/br＞git init 初始化本地仓库 
-＜/br＞git status 查看仓库状态: 
+＜/br＞在进行任务git操作之前都要先切换到git仓库＜/br＞
+＜/br＞git init 初始化本地仓库 ＜/br＞
+＜/br＞git status 查看仓库状态: ＜/br＞
 ＜/br＞git add <file> 将文件添加到暂存区（并没有真正的提交，可以被移除）
 ＜/br＞git rm --cached 将移除暂存区的缓存
 ＜/br＞git commit -m 'first commit' 提交并配置提交信息
