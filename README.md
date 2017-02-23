@@ -1,10 +1,10 @@
 主要是用来总在在学习使用git过程中使用到的命令行！
 
-在进行任务git操作之前都要先切换到git仓库
-git init 初始化本地仓库 
-git status 查看仓库状态: 
-git add <file> 将文件添加到暂存区（并没有真正的提交，可以被移除）
-git rm --cached 将移除暂存区的缓存
+#在进行任务git操作之前都要先切换到git仓库
+#git init 初始化本地仓库 
+#git status 查看仓库状态: 
+#git add <file> 将文件添加到暂存区（并没有真正的提交，可以被移除）
+#git rm --cached 将移除暂存区的缓存
 git commit -m 'first commit' 提交并配置提交信息
 git log 查看所有产生的 commit 记录
 git branch 查看下当前分支情况
